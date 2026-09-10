@@ -1,0 +1,71 @@
+﻿kalimat,tipe,pertanyaan,cosine_similarity
+Hendra mulai penelitian skripsi pada bulan Januari.,Siapa,Siapa yang mulai penelitian skripsi pada bulan januari?,0.8469
+Hendra mulai penelitian skripsi pada bulan Januari.,Apa,Apa yang hendra mulai pada bulan januari?,0.6685
+Hendra mulai penelitian skripsi pada bulan Januari.,Kapan,Kapan hendra mulai penelitian skripsi?,0.6631
+Hendra mendatangi kampus setiap pagi.,Siapa,Siapa yang mendatangi kampus setiap pagi?,0.785
+Hendra mendatangi kampus setiap pagi.,Apa,Apa yang hendra datangi setiap pagi?,0.5256
+Hendra mendatangi kampus setiap pagi.,Kapan,Kapan hendra mendatangi kampus?,0.4204
+Hendra meminjam buku referensi dari perpustakaan.,Siapa,Siapa yang meminjam buku referensi dari perpustakaan?,0.8854
+Hendra meminjam buku referensi dari perpustakaan.,Apa,Apa yang hendra pinjam dari perpustakaan?,0.7264
+Hendra meminjam buku referensi dari perpustakaan.,Dari mana,Dari mana hendra meminjam buku referensi?,0.8211
+Dia menemui dosen pembimbing pada hari Senin.,Siapa,Siapa yang menemui dosen pembimbing pada hari senin?,0.7717
+Dia menemui dosen pembimbing pada hari Senin.,Apa,Apa yang dia temui pada hari senin?,0.6779
+Dia menemui dosen pembimbing pada hari Senin.,Kapan,Kapan dia menemui dosen pembimbing?,0.6182
+Dosen pembimbing memberikan beberapa revisi dengan ramah.,Siapa,Siapa yang memberikan beberapa revisi dengan ramah?,0.6884
+Dosen pembimbing memberikan beberapa revisi dengan ramah.,Apa,Apa yang dosen pembimbing berikan dengan ramah?,0.8041
+Hendra menulis saran dosen di buku.,Siapa,Siapa yang menulis saran dosen di buku?,0.8208
+Hendra menulis saran dosen di buku.,Apa,Apa yang hendra tulis di buku?,0.6268
+Hendra menulis saran dosen di buku.,Di mana,Di mana hendra menulis saran dosen?,0.7703
+Hendra merevisi draf laporan kemarin.,Siapa,Siapa yang merevisi draf laporan kemarin?,0.7889
+Hendra merevisi draf laporan kemarin.,Apa,Apa yang hendra rapikan kemarin?,0.4031
+Hendra merevisi draf laporan kemarin.,Kapan,Kapan hendra merevisi draf laporan?,0.6932
+Dia mencari data tambahan di laboratorium.,Siapa,Siapa yang mencari data tambahan di laboratorium?,0.8256
+Dia mencari data tambahan di laboratorium.,Apa,Apa yang dia cari di laboratorium?,0.7831
+Dia mencari data tambahan di laboratorium.,Di mana,Di mana dia mencari data tambahan?,0.7044
+Hendra mengumpulkan sampel penelitian pada dua minggu ini.,Siapa,Siapa yang mengumpulkan sampel penelitian pada dua minggu ini?,0.8595
+Hendra mengumpulkan sampel penelitian pada dua minggu ini.,Apa,Apa yang hendra kumpulkan pada dua minggu ini?,0.5516
+Hendra mengumpulkan sampel penelitian pada dua minggu ini.,Kapan,Kapan hendra mengumpulkan sampel penelitian?,0.7016
+Hendra menganalisis angka statistik dengan teliti.,Siapa,Siapa yang menganalisis angka statistik dengan teliti?,0.8501
+Hendra menganalisis angka statistik dengan teliti.,Apa,Apa yang hendra analisis dengan teliti?,0.6831
+Hendra menyusun bab tiga pada bulan Maret.,Siapa,Siapa yang menyusun bab tiga pada bulan maret?,0.6978
+Hendra menyusun bab tiga pada bulan Maret.,Apa,Apa yang hendra susun pada bulan maret?,0.2702
+Hendra menyusun bab tiga pada bulan Maret.,Kapan,Kapan hendra menyusun bab tiga?,0.6983
+Hendra mengetik laporan akhir di kamar kos.,Siapa,Siapa yang mengetik laporan akhir di kamar kos?,0.8586
+Hendra mengetik laporan akhir di kamar kos.,Apa,Apa yang hendra ketik di kamar kos?,0.3891
+Hendra mengetik laporan akhir di kamar kos.,Di mana,Di mana hendra mengetik laporan akhir?,0.8081
+Dia mencetak dokumen skripsi di tempat fotokopi.,Siapa,Siapa yang mencetak dokumen skripsi di tempat fotokopi?,0.8665
+Dia mencetak dokumen skripsi di tempat fotokopi.,Apa,Apa yang dia cetak di tempat fotokopi?,0.7514
+Dia mencetak dokumen skripsi di tempat fotokopi.,Di mana,Di mana dia mencetak dokumen skripsi?,0.8123
+Hendra menyerahkan naskah tersebut pada hari Jumat.,Siapa,Siapa yang menyerahkan naskah tersebut pada hari jumat?,0.6127
+Hendra menyerahkan naskah tersebut pada hari Jumat.,Apa,Apa yang hendra serahkan pada hari jumat?,0.1962
+Hendra menyerahkan naskah tersebut pada hari Jumat.,Kapan,Kapan hendra menyerahkan naskah tersebut?,0.5573
+Dosen pembimbing menyetujui lembar persetujuan pada minggu berikutnya.,Siapa,Siapa yang menyetujui lembar persetujuan pada minggu berikutnya?,0.7211
+Dosen pembimbing menyetujui lembar persetujuan pada minggu berikutnya.,Apa,Apa yang dosen pembimbing persetujuan pada minggu berikutnya?,0.7426
+Dosen pembimbing menyetujui lembar persetujuan pada minggu berikutnya.,Kapan,Kapan dosen pembimbing menyetujui lembar persetujuan?,0.7565
+Hendra mendaftarkan ujian sidang di ruang fakultas.,Siapa,Siapa yang mendaftarkan ujian sidang di ruang fakultas?,0.8954
+Hendra mendaftarkan ujian sidang di ruang fakultas.,Apa,Apa yang hendra daftarkan di ruang fakultas?,0.6327
+Hendra mendaftarkan ujian sidang di ruang fakultas.,Di mana,Di mana hendra mendaftarkan ujian sidang?,0.8662
+Panitia kampus mengumumkan jadwal ujian pada awal April.,Siapa,Siapa yang mengumumkan jadwal ujian pada awal april?,0.8171
+Panitia kampus mengumumkan jadwal ujian pada awal April.,Apa,Apa yang panitia kampus umumkan pada awal april?,0.6287
+Hendra menyiapkan materi presentasi melalui laptop.,Siapa,Siapa yang menyiapkan materi presentasi melalui laptop?,0.8295
+Hendra menyiapkan materi presentasi melalui laptop.,Apa,Apa yang hendra siapkan melalui laptop?,0.7101
+Hendra melatih kemampuan bicara setiap sore.,Siapa,Siapa yang melatih kemampuan bicara setiap sore?,0.8244
+Hendra melatih kemampuan bicara setiap sore.,Apa,Apa yang hendra latih setiap sore?,0.6183
+Hendra melatih kemampuan bicara setiap sore.,Kapan,Kapan hendra melatih kemampuan bicara?,0.5651
+Hendra merasakan rasa gugup pada hari ujian.,Siapa,Siapa yang merasakan rasa gugup pada hari ujian?,0.8771
+Hendra merasakan rasa gugup pada hari ujian.,Apa,Apa yang hendra rasakan pada hari ujian?,0.6352
+Hendra merasakan rasa gugup pada hari ujian.,Kapan,Kapan hendra merasakan rasa gugup?,0.6956
+Hendra memakai kemeja putih ke kampus untuk sidang.,Siapa,Siapa yang memakai kemeja putih ke kampus untuk sidang?,0.9142
+Hendra memakai kemeja putih ke kampus untuk sidang.,Apa,Apa yang hendra pakai ke kampus untuk sidang?,0.7198
+Hendra memakai kemeja putih ke kampus untuk sidang.,Ke mana,Ke mana hendra memakai kemeja putih?,0.5804
+Hendra menjelaskan hasil penelitian di hadapan penguji.,Siapa,Siapa yang menjelaskan hasil penelitian di hadapan penguji?,0.8559
+Hendra menjelaskan hasil penelitian di hadapan penguji.,Apa,Apa yang hendra jelaskan di hadapan penguji?,0.6574
+Hendra menjelaskan hasil penelitian di hadapan penguji.,Di mana,Di mana hendra menjelaskan hasil penelitian?,0.7716
+Para penguji mengumumkan hasil ujian pada siang hari.,Siapa,Siapa yang mengumumkan hasil ujian pada siang hari?,0.8052
+Para penguji mengumumkan hasil ujian pada siang hari.,Apa,Apa yang para penguji umumkan pada siang hari?,0.6988
+Para penguji mengumumkan hasil ujian pada siang hari.,Kapan,Kapan para penguji mengumumkan hasil ujian?,0.7974
+Hendra merayakan momen kelulusan bersama teman-teman.,Siapa,Siapa yang merayakan momen kelulusan bersama teman-teman?,0.9135
+Hendra merayakan momen kelulusan bersama teman-teman.,Apa,Apa yang hendra rayakan bersama teman-teman?,0.5311
+Hendra menyelesaikan pendidikan sarjana pada tahun ini.,Siapa,Siapa yang menyelesaikan pendidikan sarjana pada tahun ini?,0.7817
+Hendra menyelesaikan pendidikan sarjana pada tahun ini.,Apa,Apa yang hendra selesaikan pada tahun ini?,0.3019
+Hendra menyelesaikan pendidikan sarjana pada tahun ini.,Kapan,Kapan hendra menyelesaikan pendidikan sarjana?,0.6917

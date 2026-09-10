@@ -1,0 +1,101 @@
+﻿id_teks;id_kalimat;kalimat;pertanyaan;cosine_similarity
+43;8;Siska mencari nomor kursi tiket.;Siapa yang mencari nomor kursi tiket?;0.9677
+42;23;Doni membayangkan rasa tomat yang segar.;Siapa yang membayangkan rasa tomat yang segar?;0.9562
+87;13;Yoga menggerakkan tuas kemudi remot ke depan.;Ke mana Yoga menggerakkan tuas kemudi remot?;0.9403
+42;10;Rumput liar mengganggu pertumbuhan tomat.;Apa yang mengganggu pertumbuhan tomat?;0.9391
+87;7;Yoga mengambil dua baterai baru di laci.;Di mana Yoga mengambil dua baterai baru?;0.9378
+101;2;Bapak mau ke toko perlengkapan sepeda dulu.;Siapa yang mau ke toko perlengkapan sepeda dulu?;0.9275
+59;21;Peluh membasahi wajah Santi.;Apa yang membasahi wajah Santi?;0.9204
+100;24;Bobi memasukkan balok ke dalam keranjang mainan plastik.;Apa yang Bobi masukkan ke dalam keranjang mainan plastik?;0.9188
+103;1;Pagi hari seekor monyet memakan pisang matang.;Kapan seekor monyet memakan pisang matang?;0.9076
+49;13;Lisa melihat kupu-kupu dari luar jaring.;Dari mana Lisa melihat kupu-kupu?;0.901
+52;24;Bayu berharap mendapat nilai bagus.;Siapa yang berharap mendapat nilai bagus?;0.8994
+64;10;Dito menaruh balok susun ke kotak kayu.;Apa yang Dito taruh ke kotak kayu?;0.8894
+30;16;Paman mendengar suara dari atas dahan.;Dari mana Paman mendengar suara?;0.8742
+46;20;Budi membuang bungkus plastik ke tempat sampah.;Ke mana Budi membuang bungkus plastik?;0.8605
+71;1;Bangau putih mencari ikan di genangan rawa.;Di mana Bangau putih mencari ikan?;0.8539
+19;9;Ayah mengambil kotak sepatu bekas.;Siapa yang mengambil kotak sepatu bekas?;0.8497
+87;13;Yoga menggerakkan tuas kemudi remot ke depan.;Apa yang Yoga gerakkan ke depan?;0.8372
+104;12;Ahmad membeli roti dari toko dekat rumah.;Dari mana Ahmad membeli roti?;0.8283
+103;14;Pada pagi hari monyet mencuci tangan dengan air bersih.;Kapan monyet mencuci tangan?;0.8199
+95;11;Mereka melihat batu besar di pinggir pagar.;Di mana Mereka melihat batu besar?;0.8099
+105;8;Aku bawa layar hijau.;Siapa yang bawa layar hijau?;0.7999
+27;12;Rio menemukan buku itu di rak sejarah.;Apa yang Rio temukan di rak sejarah?;0.7899
+97;18;Raka melihat ribuan bintang di angkasa.;Di mana Raka melihat ribuan bintang?;0.7785
+29;3;Pak Hasan pergi ke hutan membawa parang.;Ke mana Pak Hasan pergi membawa parang?;0.7644
+15;3;Ayah membelikan sepeda itu kemarin.;Kapan Ayah membelikan sepeda itu?;0.7587
+4;4;Dina mengambil sapu dari gudang.;Dari mana Dina mengambil sapu?;0.749
+102;42;Ia sedang menyiapkan bahan makanan.;Siapa yang sedang menyiapkan bahan makanan?;0.7349
+6;8;Beni menuangkan air ke dalam panci.;Apa yang Beni tuangkan ke dalam panci?;0.7288
+68;7;Jerapah melihat daun hijau di atas pohon.;Di mana Jerapah melihat daun hijau?;0.7184
+64;20;Dito mengembalikan keranjang mainan ke sudut kamar.;Ke mana Dito mengembalikan keranjang mainan?;0.7054
+22;8;Wasit meniup peluit panjang.;Siapa yang meniup peluit panjang?;0.6999
+99;18;Luna menggambar bulan bentuk sabit di pojok.;Apa yang Luna gambar di pojok?;0.6898
+73;5;Seekor lalat hinggap di atas batu besar.;Di mana Seekor lalat hinggap ?;0.6798
+94;23;Rani masuk ke bangku di dalam mobil.;Ke mana Rani masuk ?;0.6667
+6;3;Ibu memanggil Beni dari dapur.;Dari mana Ibu memanggil Beni?;0.653
+45;4;Rina datang bersama kakek.;Siapa yang datang bersama kakek?;0.6486
+53;10;Tiara memasukkan biskuit ke dalam troli.;Apa yang Tiara masukkan ke dalam troli?;0.6396
+104;10;Pada malam hari Ahmad belajar dengan tenang.;Kapan Ahmad belajar ?;0.6271
+8;1;Pagi hari Lani membantu ibu di dapur.;Kapan Lani membantu ibu?;0.6145
+11;3;Ayah menggali tanah di kebun.;Apa yang Ayah gali di kebun?;0.6094
+19;2;Edo melihat seekor burung pipit.;Apa yang Edo lihat?;0.5999
+35;16;Jojo membawa layang-layang ke lapangan.;Siapa yang membawa layang-layang ke lapangan?;0.5882
+48;7;Bidak pion berada di barisan depan.;Di mana Bidak pion berada ?;0.5788
+53;24;Ayah membantu memasukkan barang ke bagasi.;Ke mana Ayah membantu memasukkan barang?;0.5694
+3;8;Ibu memanggil mereka dari dalam rumah.;Dari mana Ibu memanggil mereka?;0.5588
+2;10;Budi duduk di bangku sebelah Andi.;Siapa yang duduk di bangku sebelah andi?;0.541
+57;13;Badut menangkap bola dengan lucu.;Apa yang Badut tangkap dengan lucu?;0.5345
+73;15;Katak menekan kakinya ke tanah basah licin.;Ke mana Katak menekan kaki nya?;0.5268
+82;6;Anak-anak panti asuhan berbaris rapi di aula.;Di mana Anak-anak panti asuhan berbaris ?;0.5187
+39;19;Ibu mengeluarkan loyang dari oven.;Dari mana Ibu mengeluarkan loyang?;0.507
+46;11;Paman mengambil es krim dari kotak pendingin.;Apa yang Paman ambil dari kotak pendingin?;0.4998
+38;1;Ibu mengajak Rini ke pasar.;Siapa yang Ibu ajak ke pasar?;0.4804
+37;3;Mereka bermain di lapangan desa.;Di mana Mereka bermain ?;0.4758
+74;24;Kelelawar tidur sepanjang siang di dalam gua.;Kapan Kelelawar tidur ?;0.4613
+10;1;Pagi hari Sari pergi ke perpustakaan.;Ke mana Sari pergi ?;0.4573
+61;22;Ujang naik dari lumpur sawah.;Dari mana Ujang naik ?;0.4434
+35;21;Jojo menarik benang dengan hati-hati.;Siapa yang menarik benang dengan hati-hati?;0.4392
+36;25;Semua orang menikmati hasil panen kakek.;Apa yang Semua orang nikmati?;0.4229
+26;18;Andi meniup lilin di atas kue.;Di mana Andi meniup lilin?;0.4107
+77;11;Andi melangkah masuk ke halaman sekolah luas.;Ke mana Andi melangkah masuk ?;0.4072
+64;14;Dito merapikan buku cerita di rak.;Apa yang Dito rapikan di rak?;0.3992
+36;9;Kakek mengarahkan jaring ke buah mangga.;Ke mana Kakek mengarahkan jaring?;0.3896
+11;22;Mereka melanjutkan pekerjaan di kebun.;Di mana Mereka melanjutkan pekerjaan?;0.3713
+7;6;Tono duduk di belakang sepeda.;Di mana Tono duduk ?;0.368
+27;6;Siswa masuk dengan tertib.;Apa yang masuk dengan tertib?;0.3593
+33;21;Kelinci terbangun dari tidurnya.;Dari mana  terbangun ?;0.3466
+81;17;Andi kembali menaiki sepeda kesayangannya pantang menyerah.;Apa yang Andi naik kembali?;0.3317
+55;18;Udara terasa sangat dingin di kulit.;Di mana  terasa ?;0.3256
+25;11;Udin berhasil menangkap tiga ekor ikan.;Apa yang Udin berhasil?;0.3135
+16;6;Tanah itu sangat gembur.;Apa yang gembur sangat?;0.3046
+79;20;Semua penonton bertepuk tangan bergemuruh sangat keras.;Apa yang bertepuk bergemuruh tangan?;0.2996
+91;5;Ayah memotong bambu menjadi lingkaran.;Apa yang Ayah potongi?;0.2809
+48;16;Anton berpikir dengan sangat keras.;Siapa yang berpikir?;0.278
+28;4;Fajar tiba di kolam renang pagi hari.;Kapan Fajar tiba ?;0.2638
+61;24;Ujang membawa ember berisi siput pulang.;Apa yang Ujang bawai?;0.251
+73;24;Katak berhasil menangkap nyamuk segar bergizi itu.;Apa yang Katak berhasil?;0.2428
+5;14;Ibu mengizinkan Rudi melihat mainan.;Apa yang Ibu izin?;0.2322
+89;1;Hari Minggu pagi turun gerimis rintik-rintik.;Siapa yang turun gerimis rintik-rintik?;0.222
+94;2;Payung kuning itu hadiah ulang tahun dari ibu.;Dari mana  Payung ?;0.2165
+4;24;Ibu mengelap meja makan.;Apa yang Ibu kelap?;0.2066
+86;23;Rian mewakili menerima piala juara satu.;Apa yang Rian wakil?;0.1974
+71;2;Rawa itu memiliki air yang sangat dingin.;Apa yang Rawa itu miliki sangat?;0.187
+25;2;Sungai itu terletak di pinggir desa.;Di mana  terletak ?;0.1763
+75;23;Rubah lari pergi meninggalkan kura-kura tersebut ketakutan.;Apa yang Rubah lari?;0.1666
+85;25;Membatik menjadi seni tradisional yang sangat mengasyikkan.;Apa yang Membatik jadi sangat?;0.1519
+44;19;Dito meraih juara pertama.;Apa yang Dito raih?;0.147
+21;11;Udara berubah menjadi sangat dingin.;Siapa yang berubah menjadi?;0.1398
+66;6;Rini mengelap apel menggunakan kain bersih.;Apa yang Rini kelapkan?;0.1241
+82;5;Pengurus panti menyambut para siswa dengan sangat hangat.;Apa yang Pengurus panti sambut?;0.1168
+52;13;Bayu menggunakan tusuk gigi untuk menggambar pola.;Apa yang Bayu guna?;0.1078
+21;14;Ibu membuatkan susu cokelat hangat.;Apa yang Ibu buatkan?;0.0989
+80;25;Kegiatan siskamling membuat lingkungan desa selalu aman.;Apa yang Kegiatan siskamling buat?;0.0938
+18;4;Ibu ingin memasak sayur sop.;Apa yang Ibu pasak?;0.084
+26;3;Ibu membuat kue ulang tahun cokelat.;Apa yang Ibu buat?;0.0822
+68;23;Musim kemarau bukan menjadi masalah bagi jerapah.;Apa yang menjadi masalah jerapah bukan?;0.0779
+73;14;Katak menarik kedua kaki belakangnya erat-erat kuat.;Apa yang Katak menarik?;0.0716
+13;14;Kancil meminum air sungai tersebut.;Apa yang Kancil pinum?;0.0463
+51;16;Dokter bekerja dengan sangat lembut.;Apa yang bekerja?;0.0418
+70;8;Unta menolak membantu pekerjaan berat hewan lain.;Apa yang Unta tolak?;0.0409
+92;14;Bingkai kacamata itu sangat ringan dari bahan titanium.;Dari mana  Bingkai ?;0.0137
